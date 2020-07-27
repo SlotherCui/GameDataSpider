@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import scrapy
 
-
+## 测试爬取网站
 class TaobaoSpider(scrapy.Spider):
     name = 'taobao'
     # allowed_domains = ['www.taobao.com']
